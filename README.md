@@ -28,6 +28,6 @@ The initial version of the login system contained multiple security risks includ
 ---
 
 Prepared by: Mihika Pal  
-Internship: CodeAlpha Cybersecurity  
-Task: Secure Coding Review 
+Internship:  CodeAlpha Cybersecurity  
+Task:        Secure Coding Review 
 
