@@ -1,4 +1,4 @@
-# Secure Coding Review – CodeAlpha Cybersecurity Internship (Task 3)
+# Secure Coding Review 
 
 This repository contains a code review of a basic login system developed in Python. The objective of this task is to identify and address security vulnerabilities in a simple authentication program by comparing an insecure version with an improved secure version.
 
@@ -28,6 +28,5 @@ The initial version of the login system contained multiple security risks includ
 ---
 
 Prepared by: Mihika Pal  
-Internship:  CodeAlpha Cybersecurity  
 Task:        Secure Coding Review 
 
