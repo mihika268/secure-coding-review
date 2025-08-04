@@ -38,5 +38,4 @@ This report outlines the security vulnerabilities identified in a simple Python-
 ---
 
 Prepared by: Mihika Pal  
-Task:        Secure Coding Review  
-Internship:  CodeAlpha Cybersecurity
+Task:        Secure Coding Review
