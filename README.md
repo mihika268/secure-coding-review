@@ -25,8 +25,6 @@ Both Python files can be executed from a terminal. The user will be prompted to 
 
 The initial version of the login system contained multiple security risks including hardcoded credentials, no password hashing, and no input sanitization. These were addressed in the secure version using Python's `hashlib` module for hashing and better coding practices.
 
----
 
-Prepared by: Mihika Pal  
-Task:        Secure Coding Review 
+
 
